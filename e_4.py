@@ -1,3 +1,9 @@
+'''
+@Author: Samuel Chamalé
+@Date: November 2024
+@Description: Linear Congruential Generator (LCG) and Hypothesis Testing
+'''
+
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy import stats
