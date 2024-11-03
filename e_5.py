@@ -208,8 +208,8 @@ experiments = [
         'N': 10000
     },
     {
-        'name': 'Mersenne Twister - Seed 987654321',
-        'seed': 987654321,
+        'name': 'Mersenne Twister - Seed 123456789',
+        'seed': 123456789,
         'N': 10000
     }
 ]
